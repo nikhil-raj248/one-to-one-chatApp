@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469773665858",
+    "project_id": "apptoconnect-2bdcc",
+    "storage_bucket": "apptoconnect-2bdcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469773665858:android:60b9436eb2fd2bb462cfdb",
+        "android_client_info": {
+          "package_name": "com.example.apptoconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469773665858-nocv9q52duatok3jd0975jimmunggult.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLnZq0MXLNaREBO8Ihk5EJmQOQz_DxqtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469773665858-nocv9q52duatok3jd0975jimmunggult.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
